@@ -1,4 +1,4 @@
-#include <stdio.h>
+/#include <stdio.h>
 
 // Function to get maximum of two integers
 int max(int a, int b) {
